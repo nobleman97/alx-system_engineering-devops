@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R 764 .
+su chmod -R 664 .
