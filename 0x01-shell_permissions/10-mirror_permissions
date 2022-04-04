@@ -1,2 +1,2 @@
 #!/bin/bash
-su chmod -R 664 .
+sudo chmod --reference=olleh hello
